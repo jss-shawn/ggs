@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file alias="SourceHanSansCN-Normal.ttf">res/fonts/SourceHanSansCN-Normal.ttf</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file alias="add.svg">res/icons/add.svg</file>
+        <file alias="arrow_down.svg">res/icons/arrow_down.svg</file>
+        <file alias="battery.svg">res/icons/battery.svg</file>
+        <file alias="clear.svg">res/icons/clear.svg</file>
+        <file alias="corridor.svg">res/icons/corridor.svg</file>
+        <file alias="double_down.svg">res/icons/double_down.svg</file>
+        <file alias="fence.svg">res/icons/fence.svg</file>
+        <file alias="focus.svg">res/icons/focus.svg</file>
+        <file alias="forward.svg">res/icons/forward.svg</file>
+        <file alias="gimbal.svg">res/icons/gimbal.svg</file>
+        <file alias="gps.svg">res/icons/gps.svg</file>
+        <file alias="link_state.svg">res/icons/link_state.svg</file>
+        <file alias="map_add.svg">res/icons/map_add.svg</file>
+        <file alias="message.svg">res/icons/message.svg</file>
+        <file alias="more.svg">res/icons/more.svg</file>
+        <file alias="move.svg">res/icons/move.svg</file>
+        <file alias="plan.svg">res/icons/plan.svg</file>
+        <file alias="rally.svg">res/icons/rally.svg</file>
+        <file alias="rc.svg">res/icons/rc.svg</file>
+        <file alias="remove.svg">res/icons/remove.svg</file>
+        <file alias="rid.svg">res/icons/rid.svg</file>
+        <file alias="route.svg">res/icons/route.svg</file>
+        <file alias="save.svg">res/icons/save.svg</file>
+        <file alias="survey.svg">res/icons/survey.svg</file>
+        <file alias="telemetry.svg">res/icons/telemetry.svg</file>
+        <file alias="trash.svg">res/icons/trash.svg</file>
+        <file alias="triple_left.svg">res/icons/triple_left.svg</file>
+        <file alias="upload.svg">res/icons/upload.svg</file>
+        <file alias="vehicle.svg">res/icons/vehicle.svg</file>
+        <file alias="vehicle_setup.svg">res/icons/vehicle_setup.svg</file>
+        <file alias="vertical.svg">res/icons/vertical.svg</file>
+        <file alias="way.svg">res/icons/way.svg</file>
+        <file alias="waypoint.svg">res/icons/waypoint.svg</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
